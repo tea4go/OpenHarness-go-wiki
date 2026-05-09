@@ -1,0 +1,13 @@
+{
+  "title": "OpenHarness Go Wiki",
+  "description": "OpenHarness Go 项目官方知识库与文档",
+  "author": "OpenHarness Team",
+  "language": "zh-hans",
+  "gitbook": ">=3.0.0",
+  "plugins": [],
+  "pluginsConfig": {},
+  "structure": {
+    "readme": "README.md",
+    "summary": "SUMMARY.md"
+  }
+}
